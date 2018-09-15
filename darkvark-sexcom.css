@@ -1,0 +1,43 @@
+/*  HOW TO INSTALL:
+	COPY the full contents of this file (@import DOES NOT WORK CORRECTLY)
+	PASTE them into your injector of choice for Sex.com (tested on Stylebot for Google Chrome)
+	SAVE the changes
+	
+	Everything should work!
+	
+	Check back at lordaardvark.github.io/darkvark-sexcom.css and check the VERSION NUMBER below periodically. If it's different than the one you installed, then repeat this installation process for the newest version.
+*/
+
+/* VERSION NUMBER: 0.9.0 */
+
+/* Background */
+#container, #main-menu, ul, .header-bottom-menu, .sex, body, header {
+    background-color: rgb(64,64,64);
+}
+
+/* Entry element */
+li, .masonry_box {
+    background-color: rgb(54,54,54);
+}
+
+/* Text */
+.home_title, h1, a, label, button {
+    color: rgb(200,200,200);
+}
+
+/* Tag button */
+.btn {
+    background-color: rgb(72,72,72);
+}
+
+/* Specific-element page text */
+input, .board_box, .comment_box, textarea, .big_pin_box, h2 {
+    background-color: rgb(96,96,96);
+    color: rgb(200,200,200);
+}
+
+/* Images */
+img {
+    filter: brightness(50%);
+}
+
