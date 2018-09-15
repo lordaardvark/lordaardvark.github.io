@@ -1,3 +1,15 @@
+/*  HOW TO INSTALL:
+	COPY the full contents of this file (@import DOES NOT WORK CORRECTLY)
+	PASTE them into your injector of choice for Patreon.com (tested on Stylebot for Google Chrome)
+	SAVE the changes
+	
+	Everything should work!
+	
+	Check back at lordaardvark.github.io/darkvark-patreon.css and check the VERSION NUMBER below periodically. If it's different than the one you installed, then repeat this installation process for the newest version.
+*/
+
+/* VERSION NUMBER: 0.9.0 */
+
 body {
     background-color: rgb(64,64,64);
 }
