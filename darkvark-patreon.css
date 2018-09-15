@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(64,64,64);
+}
+
+/* Header, "Overview, Posts, ..." banner, content boxes, more content boxes, main page content, posts, "Share & Tweet" box, search bar */
+header, .fNrenU, .doQlsz, .fKcILM, strong, .lbeMCZ, .ciRLbD, input, .doQlsz span {
+    background-color: rgb(76,76,76);
+    color: rgb(200,200,200);
+    border-color: rgb(48,48,48);
+}
+
+/* "Patreon" and graphics, title texts, more title texts, even more title texts*/
+path, .sc-chPdSV, .sc-kAzzGY, .sc-gqjmRU {
+    fill: rgb(220, 140, 60);
+    color: rgb(220, 140, 60);
+}
+
+/* "Welcome" background, background */
+.s1p4ofrt-0, #renderPageContentWrapper {
+    background-color: rgb(64,64,64);
+    border-color: rgb(48,48,48);
+}
+
+/* "Welcome" text */
+.sc-gZMcBi {
+    color: rgb(200,200,200);
+}
+
+/* Links, "Recent posts" */
+a, .hoWBBl {
+    color: rgb(140, 180, 240);
+}
+
+/* The "more to this post" gradient */
+.idKVgE {
+    background-image: linear-gradient(transparent,rgb(64,64,64));
+}
+
+/* Join buttons, "Share", "View all" buttons */
+.iCrFbV, .hCedbC, .gtTahu {
+    background-color: rgb(64,76,90);
+    color: rgb(200,200,200);
+    border-color: rgb(50,60,70);
+}
+
+/* Patreon button, "Edit your page", notifications box, notification text  */
+.dBwmJS, .jYEEHJ, .eKwnQP, .bLFKGr {
+    background-color: rgb(160, 100, 60);
+    border-color: rgb(130, 60, 30);
+    color: rgb(200,200,200);
+}
+
